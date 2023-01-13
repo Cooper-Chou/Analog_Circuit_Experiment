@@ -1,0 +1,1727 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.16)  8 JAN 2023 21:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**23.SuperCapacitor.tex
+(./23.SuperCapacitor.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-11-02> (./oup-contemporary.cls
+Document Class: oup-contemporary 2017/06/28, v1.1
+(c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)
+\MT@toks=\toks19
+\MT@tempbox=\box51
+\MT@count=\count194
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen141
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count195
+
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip50
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+))
+(c:/texlive/2022/texmf-dist/tex/latex/euler/euler.sty
+Package: euler 1995/03/05 v2.5
+
+Package: `euler' v2.5 <1995/03/05> (FJ and FMi)
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 35.
+LaTeX Font Info:    Encoding `OML' has changed to `U' for symbol font
+(Font)              `letters' in the math version `normal' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> U/eur/m/n on input line 35.
+LaTeX Font Info:    Encoding `OML' has changed to `U' for symbol font
+(Font)              `letters' in the math version `bold' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> U/eur/m/n on input line 35.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 57.
+\symEulerFraktur=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `EulerFraktur' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 63.
+LaTeX Info: Redefining \oldstylenums on input line 85.
+\symEulerScript=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `EulerScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \aleph on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Re on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Im on input line 99.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 101.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \neg on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \wedge on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \vee on input line 110.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \sim on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \mid on input line 114.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 116.
+LaTeX Font Info:    Redeclaring math symbol \mathsection on input line 117.
+\symEulerExtension=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \coprod on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \prod on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \sum on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \intop on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \ointop on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 135.
+LaTeX Font Info:    Redeclaring math symbol \infty on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \nearrow on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \searrow on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \nwarrow on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \swarrow on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Leftrightarrow on input line 157.
+LaTeX Font Info:    Redeclaring math symbol \Leftarrow on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \Rightarrow on input line 159.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrow on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \leftarrow on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \rightarrow on input line 163.
+LaTeX Font Info:    Redeclaring math delimiter \uparrow on input line 166.
+LaTeX Font Info:    Redeclaring math delimiter \downarrow on input line 168.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 170.
+LaTeX Font Info:    Redeclaring math delimiter \Uparrow on input line 172.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 174.
+LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoonup on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoondown on input line 178.
+
+LaTeX Font Info:    Redeclaring math symbol \rightharpoonup on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \rightharpoondown on input line 180
+.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 182.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 184.
+\symcmmigroup=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `cmmigroup' in version `bold'
+(Font)                  OML/cmm/m/it --> OML/cmm/b/it on input line 200.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 201.
+LaTeX Font Info:    Redeclaring math symbol \triangleleft on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \triangleright on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \star on input line 204.
+LaTeX Font Info:    Redeclaring math symbol \lhook on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \rhook on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \flat on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \natural on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \sharp on input line 209.
+LaTeX Font Info:    Redeclaring math symbol \smile on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \frown on input line 211.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 245.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 246.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 247.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 248.
+LaTeX Font Info:    Redeclaring math accent \check on input line 249.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 250.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 251.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 252.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 254.
+) (c:/texlive/2022/texmf-dist/tex/latex/merriweather/merriweather.sty
+Package: merriweather 2022/09/20 (Bob Tennent) Supports Merriweather(Sans) font
+s for all LaTeX engines. 
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+))
+(c:/texlive/2022/texmf-dist/tex/latex/mathastext/mathastext.sty
+Package: mathastext 2022/11/04 v1.3y Use the text font in math mode (JFB)
+\mst@exists@muskip=\muskip16
+\mst@forall@muskip=\muskip17
+\mst@prime@muskip=\muskip18
+\mst@do@nonletters=\toks22
+\mst@do@easynonletters=\toks23
+\mst@do@az=\toks24
+\mst@do@AZ=\toks25
+\symmtoperatorfont=\mathgroup8
+\symmtletterfont=\mathgroup9
+
+** ! and ?
+** punctuation: , . : ; and \colon
+LaTeX Info: Redefining \relbar on input line 844.
+LaTeX Info: Redefining \rightarrowfill on input line 847.
+LaTeX Info: Redefining \leftarrowfill on input line 852.
+** + and =
+LaTeX Info: Redefining \Relbar on input line 943.
+** adding = ; and + to \nfss@catcodes
+** parentheses ( ) [ ] and slash /
+** alldelims: < > \backslash \setminus | \vert \mid \{ and \}
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 989.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 1001.
+LaTeX Info: Redefining \models on input line 1010.
+** \# \mathdollar \% \& 
+** \imath and \jmath 
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `nor
+mal'
+(Font)                  T1/Merriwthr-OsF/b/it --> T1/Merriwthr-OsF/b/it on inpu
+t line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `bol
+d'
+(Font)                  T1/Merriwthr-OsF/b/it --> T1/Merriwthr-OsF/b/it on inpu
+t line 2370.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
+(Font)                  T1/Merriwthr-OsF/m/it --> T1/Merriwthr-OsF/m/it on inpu
+t line 2370.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
+(Font)                  T1/Merriwthr-OsF/m/it --> T1/Merriwthr-OsF/b/it on inpu
+t line 2370.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal
+'
+(Font)                  T1/Merriwthr-OsF/m/n --> T1/Merriwthr-OsF/m/n on input 
+line 2370.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
+(Font)                  T1/Merriwthr-OsF/m/n --> T1/Merriwthr-OsF/b/n on input 
+line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
+(Font)                  T1/Merriwthr-OsF/b/n --> T1/Merriwthr-OsF/b/n on input 
+line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
+(Font)                  T1/Merriwthr-OsF/b/n --> T1/Merriwthr-OsF/b/n on input 
+line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
+(Font)                  T1/Merriwthr-OsF/m/it --> T1/Merriwthr-OsF/m/it on inpu
+t line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
+(Font)                  T1/Merriwthr-OsF/m/it --> T1/Merriwthr-OsF/b/it on inpu
+t line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
+(Font)                  T1/MerriwthrSans-OsF/m/n --> T1/MerriwthrSans-OsF/m/n o
+n input line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `bold'
+(Font)                  T1/MerriwthrSans-OsF/m/n --> T1/MerriwthrSans-OsF/b/n o
+n input line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
+(Font)                  T1/lmtt/m/n --> T1/lmtt/m/n on input line 2370.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 2370.
+** Latin letters in the `normal' (resp. `bold') math versions are now
+** set up to use the fonts T1/Merriwthr-OsF/m(b)/it
+** Other characters (digits, ...) and \log-like names will be
+** typeset with the n shape.
+** \hbar
+** minus as endash
+** \HUGE has been (re)-defined.
+** mathastext has declared larger sizes for subscripts.
+** To keep LaTeX defaults, use option `defaultmathsizes'.
+) (c:/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(c:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
+)
+(c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box52
+\extrarowheight=\dimen143
+\NC@list=\toks26
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box53
+)
+\everycr=\toks27
+\minrowclearance=\skip67
+\rownum=\count197
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(c:/texlive/2022/texmf-dist/tex/latex/xpatch/xpatch.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-11-02 L3 programming layer (loader) 
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box54
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+))
+(c:/texlive/2022/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/texlive/2022/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks28
+)
+(c:/texlive/2022/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count199
+\rotFPtop=\skip68
+\rotFPbot=\skip69
+\rot@float@box=\box55
+\rot@mess@toks=\toks29
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks30
+\AP@partial=\box56
+\AP@footins=\box57
+)
+(c:/texlive/2022/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box58
+\TP@holdbox=\box59
+\TPHorizModule=\dimen146
+\TPVertModule=\dimen147
+\TP@margin=\dimen148
+\TP@absmargin=\dimen149
+
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
+\TPboxrulesize=\dimen150
+\TP@ox=\dimen151
+\TP@oy=\dimen152
+\TP@tbargs=\toks31
+TextBlockOrigin set to 0pt x 0pt
+) (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip19
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/newfloat/newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: `rotating' package detected.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(c:/texlive/2022/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+
+(c:/texlive/2022/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count266
+Package zref Info: New property: abspage on input line 65.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip70
+\c@mdf@globalstyle@cnt=\count267
+\mdf@skipabove@length=\skip71
+\mdf@skipbelow@length=\skip72
+\mdf@leftmargin@length=\skip73
+\mdf@rightmargin@length=\skip74
+\mdf@innerleftmargin@length=\skip75
+\mdf@innerrightmargin@length=\skip76
+\mdf@innertopmargin@length=\skip77
+\mdf@innerbottommargin@length=\skip78
+\mdf@splittopskip@length=\skip79
+\mdf@splitbottomskip@length=\skip80
+\mdf@outermargin@length=\skip81
+\mdf@innermargin@length=\skip82
+\mdf@linewidth@length=\skip83
+\mdf@innerlinewidth@length=\skip84
+\mdf@middlelinewidth@length=\skip85
+\mdf@outerlinewidth@length=\skip86
+\mdf@roundcorner@length=\skip87
+\mdf@footenotedistance@length=\skip88
+\mdf@userdefinedwidth@length=\skip89
+\mdf@needspace@length=\skip90
+\mdf@frametitleaboveskip@length=\skip91
+\mdf@frametitlebelowskip@length=\skip92
+\mdf@frametitlerulewidth@length=\skip93
+\mdf@frametitleleftmargin@length=\skip94
+\mdf@frametitlerightmargin@length=\skip95
+\mdf@shadowsize@length=\skip96
+\mdf@extratopheight@length=\skip97
+\mdf@subtitleabovelinewidth@length=\skip98
+\mdf@subtitlebelowlinewidth@length=\skip99
+\mdf@subtitleaboveskip@length=\skip100
+\mdf@subtitlebelowskip@length=\skip101
+\mdf@subtitleinneraboveskip@length=\skip102
+\mdf@subtitleinnerbelowskip@length=\skip103
+\mdf@subsubtitleabovelinewidth@length=\skip104
+\mdf@subsubtitlebelowlinewidth@length=\skip105
+\mdf@subsubtitleaboveskip@length=\skip106
+\mdf@subsubtitlebelowskip@length=\skip107
+\mdf@subsubtitleinneraboveskip@length=\skip108
+\mdf@subsubtitleinnerbelowskip@length=\skip109
+
+(c:/texlive/2022/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box60
+\mdf@footnotebox=\box61
+\mdf@splitbox@one=\box62
+\mdf@splitbox@two=\box63
+\mdf@splitbox@save=\box64
+\mdfsplitboxwidth=\skip110
+\mdfsplitboxtotalwidth=\skip111
+\mdfsplitboxheight=\skip112
+\mdfsplitboxdepth=\skip113
+\mdfsplitboxtotalheight=\skip114
+\mdfframetitleboxwidth=\skip115
+\mdfframetitleboxtotalwidth=\skip116
+\mdfframetitleboxheight=\skip117
+\mdfframetitleboxdepth=\skip118
+\mdfframetitleboxtotalheight=\skip119
+\mdffootnoteboxwidth=\skip120
+\mdffootnoteboxtotalwidth=\skip121
+\mdffootnoteboxheight=\skip122
+\mdffootnoteboxdepth=\skip123
+\mdffootnoteboxtotalheight=\skip124
+\mdftotallinewidth=\skip125
+\mdfboundingboxwidth=\skip126
+\mdfboundingboxtotalwidth=\skip127
+\mdfboundingboxheight=\skip128
+\mdfboundingboxdepth=\skip129
+\mdfboundingboxtotalheight=\skip130
+\mdf@freevspace@length=\skip131
+\mdf@horizontalwidthofbox@length=\skip132
+\mdf@verticalmarginwhole@length=\skip133
+\mdf@horizontalspaceofbox=\skip134
+\mdfsubtitleheight=\skip135
+\mdfsubsubtitleheight=\skip136
+\c@mdfcountframes=\count268
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count269
+\c@mdf@env@i=\count270
+\c@mdf@env@ii=\count271
+\c@mdf@zref@counter=\count272
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box65
+\beforetitleunit=\skip137
+\aftertitleunit=\skip138
+\ttl@plus=\dimen153
+\ttl@minus=\dimen154
+\ttl@toksa=\toks32
+\titlewidth=\dimen155
+\titlewidthlast=\dimen156
+\titlewidthfirst=\dimen157
+)
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2022/10/12 v3.38 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+Package scrextend Info: unexpected definition of `\@makefnmark'.
+(scrextend)             Trying to patch it on input line 1709.
+Package scrextend Info: patch seems to be successfull on input line 1709.
+)
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 65.
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen158
+\calc@Bdimen=\dimen159
+\calc@Askip=\skip139
+\calc@Bskip=\skip140
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip141
+)
+(c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks33
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+
+(c:/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count279
+)
+\@linkdim=\dimen168
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count282
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count283
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen169
+
+(c:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count284
+\Field@Width=\dimen170
+\Fld@charsize=\dimen171
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\HyAnn@Count=\count288
+\Fld@listcount=\count289
+\c@bookmark@seq@number=\count290
+
+(c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip142
+)
+(c:/texlive/2022/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip143
+\@affilsep=\skip144
+\c@Maxaffil=\count291
+\c@authors=\count292
+\c@affil=\count293
+)
+(c:/texlive/2022/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks34
+\footnotemargin=\dimen172
+\@outputbox@depth=\dimen173
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip145
+\f@nch@O@elh=\skip146
+\f@nch@O@erh=\skip147
+\f@nch@O@olh=\skip148
+\f@nch@O@orh=\skip149
+\f@nch@O@elf=\skip150
+\f@nch@O@erf=\skip151
+\f@nch@O@olf=\skip152
+\f@nch@O@orf=\skip153
+)
+(c:/texlive/2022/texmf-dist/tex/generic/alphalph/alphalph.sty
+Package: alphalph 2019/12/09 v2.6 Convert numbers to letters (HO)
+)
+\c@authorfn=\count294
+
+(c:/texlive/2022/texmf-dist/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip154
+\absleftindent=\skip155
+\absrightindent=\skip156
+\absparindent=\skip157
+\absparsep=\skip158
+)
+Package newfloat Info: New float `keypoints' with options `placement=t!,name=kp
+t' on input line 286.
+\c@keypoints=\count295
+\newfloat@ftype=\count296
+Package newfloat Info: float type `keypoints'=8 on input line 286.
+
+(c:/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip159
+\enit@outerparindent=\dimen174
+\enit@toks=\toks35
+\enit@inbox=\box66
+\enit@count@id=\count297
+\enitdp@description=\count298
+)
+(c:/texlive/2022/texmf-dist/tex/latex/quoting/quoting.sty
+Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
+\quo@toppartop=\skip160
+)
+(c:/texlive/2022/texmf-dist/tex/latex/sttools/stfloats.sty
+Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count299
+\c@dblbotnumber=\count300
+)
+(c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen175
+\lightrulewidth=\dimen176
+\cmidrulewidth=\dimen177
+\belowrulesep=\dimen178
+\belowbottomsep=\dimen179
+\aboverulesep=\dimen180
+\abovetopsep=\dimen181
+\cmidrulesep=\dimen182
+\cmidrulekern=\dimen183
+\defaultaddspace=\dimen184
+\@cmidla=\count301
+\@cmidlb=\count302
+\@aboverulesep=\dimen185
+\@belowrulesep=\dimen186
+\@thisruleclass=\count303
+\@lastruleclass=\count304
+\@thisrulewidth=\dimen187
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen188
+\TX@old@table=\dimen189
+\TX@old@col=\dimen190
+\TX@target=\dimen191
+\TX@delta=\dimen192
+\TX@cols=\count305
+\TX@ftn=\toks36
+)
+\enitdp@tablenotes=\count306
+
+(c:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen193
+\captionmargin=\dimen194
+\caption@leftmargin=\dimen195
+\caption@rightmargin=\dimen196
+\caption@width=\dimen197
+\caption@indent=\dimen198
+\caption@parindent=\dimen199
+\caption@hangindent=\dimen256
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count307
+\c@continuedfloat=\count308
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip161
+\bibsep=\skip162
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count309
+))
+(c:/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip163
+\subfigcapskip=\skip164
+\subfigcaptopadj=\dimen257
+\subfigbottomskip=\skip165
+\subfigcapmargin=\dimen258
+\subfiglabelskip=\skip166
+\c@subfigure=\count310
+\c@lofdepth=\count311
+\c@subtable=\count312
+\c@lotdepth=\count313
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2022/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip167
+\subfig@bottom=\skip168
+)
+(c:/texlive/2022/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2022-12-05 v3.1.11 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen259
+\l__siunitx_angle_marker_box=\box67
+\l__siunitx_angle_unit_box=\box68
+\l__siunitx_compound_count_int=\count314
+
+(c:/texlive/2022/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_number_exponent_fixed_int=\count315
+\l__siunitx_number_min_decimal_int=\count316
+\l__siunitx_number_min_integer_int=\count317
+\l__siunitx_number_round_precision_int=\count318
+\l__siunitx_number_group_first_int=\count319
+\l__siunitx_number_group_size_int=\count320
+\l__siunitx_number_group_minimum_int=\count321
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks37
+\ex@=\dimen260
+))
+\l__siunitx_table_tmp_box=\box69
+\l__siunitx_table_tmp_dim=\dimen261
+\l__siunitx_table_column_width_dim=\dimen262
+\l__siunitx_table_integer_box=\box70
+\l__siunitx_table_decimal_box=\box71
+\l__siunitx_table_before_box=\box72
+\l__siunitx_table_after_box=\box73
+\l__siunitx_table_before_dim=\dimen263
+\l__siunitx_table_carry_dim=\dimen264
+\l__siunitx_unit_tmp_int=\count322
+\l__siunitx_unit_position_int=\count323
+\l__siunitx_unit_total_int=\count324
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup10
+\symAMSb=\mathgroup11
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Info: Redefining \frak on input line 111.
+))
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 57.
+LaTeX Font Info:    Trying to load font information for T1+Merriwthr-OsF on inp
+ut line 57.
+
+(c:/texlive/2022/texmf-dist/tex/latex/merriweather/T1Merriwthr-OsF.fd
+File: T1Merriwthr-OsF.fd 2020/08/30 (autoinst) Font definitions for T1/Merriwth
+r-OsF.
+)
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 7.5pt on input line 57.
+
+(./23.SuperCapacitor.aux)
+\openout1 = `23.SuperCapacitor.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Info: Redefining \microtypecontext on input line 57.
+Package microtype Info: Applying patch `item' on input line 57.
+Package microtype Info: Applying patch `toc' on input line 57.
+Package microtype Info: Applying patch `eqnum' on input line 57.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 57.
+
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 57.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Merriwthr-OsF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 57.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/Merriwthr-OsF/m/up on input line 57.
+
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/Merriwthr-OsF/m/up on input line 57
+.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/Merriwthr-OsF/m/up --> T1/Merriwthr-OsF/b/up on inpu
+t line 57.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/Merriwthr-OsF/b/up on input line 57
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/Merriwthr-OsF/b/up on input line 57
+.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/MerriwthrSans-OsF/m/up on input lin
+e 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/MerriwthrSans-OsF/m/up on input li
+ne 57.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/Merriwthr-OsF/m/it on input line 57
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/Merriwthr-OsF/m/it on input line 5
+7.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/up on input line 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/up on input line 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/MerriwthrSans-OsF/m/up --> T1/MerriwthrSans-OsF/b/up
+ on input line 57.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/Merriwthr-OsF/m/it --> T1/Merriwthr-OsF/b/it on inpu
+t line 57.
+\c@mv@tabular=\count325
+\c@mv@boldtabular=\count326
+(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count327
+\scratchdimen=\dimen265
+\scratchbox=\box74
+\nofMPsegments=\count328
+\nofMParguments=\count329
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count330
+\MPscratchDim=\dimen266
+\MPnumerator=\count331
+\makeMPintoPDFobject=\count332
+\everyMPtoPDFconversion=\toks39
+) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 57.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot twoside 
+* h-part:(L,W,R)=(54.64pt, 488.22787pt, 54.64pt)
+* v-part:(T,H,B)=(66.0pt, 745.04684pt, 34.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=488.22787pt
+* \textheight=715.04684pt
+* \oddsidemargin=-17.62999pt
+* \evensidemargin=-17.62999pt
+* \topmargin=-47.76999pt
+* \headheight=17.5pt
+* \headsep=24.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=48.0pt
+* \marginparsep=10.0pt
+* \columnsep=18.0pt
+* \skip\footins=22.0pt plus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 57.
+(./23.SuperCapacitor.out) (./23.SuperCapacitor.out)
+\@outlinefile=\write3
+\openout3 = `23.SuperCapacitor.out'.
+
+\@gscitedetails=\box75
+\@gscitedetailsheight=\skip169
+\@gsheadbox=\box76
+\@gsheadboxheight=\skip170
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 6.5pt on input line 57.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 57.
+
+
+LaTeX Font Warning: Font shape `T1/Merriwthr-OsF/m/up' undefined
+(Font)              using `T1/Merriwthr-OsF/m/n' instead on input line 57.
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 6.24973pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 5.24997pt on input line 57.
+LaTeX Font Info:    Trying to load font information for U+eur on input line 57.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+)
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 57.
+
+LaTeX Font Info:    Trying to load font information for U+euf on input line 57.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-euf.cfg
+File: mt-euf.cfg 2006/07/03 v1.1 microtype config. file: AMS Euler Fraktur (RS)
+
+)
+LaTeX Font Info:    Trying to load font information for U+eus on input line 57.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/ueus.fd
+File: ueus.fd 2013/01/14 v3.01 Euler Script
+)
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-eus.cfg
+File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+euex on input line 57
+.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/ueuex.fd
+File: ueuex.fd 2013/01/14 v3.01 Euler extra symbols
+)
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.5> not available
+(Font)              size <7> substituted on input line 57.
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 6.24973pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 5.24997pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 7.5pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 6.24973pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 5.24997pt on input line 57.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(c:/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 57.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/it' will be
+(Font)              scaled to size 8.0pt on input line 57.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(c:/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionar
+y-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 57.
+
+TextBlockOrigin set to 4pc+6.64pt x 4pc+6pt
+
+
+pdfTeX warning: pdflatex.exe (file ./oup.pdf): PDF inclusion: found PDF version
+ <1.7>, but at most version <1.5> allowed
+<oup.pdf, id=121, 794.97pt x 614.295pt>
+File: oup.pdf Graphic file (type pdf)
+<use oup.pdf>
+Package pdftex.def Info: oup.pdf  used on input line 68.
+(pdftex.def)             Requested size: 75.09837pt x 58.038pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./gigascience-logo.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<gigascience-logo.pdf, id=122, 794.97pt x 614.295pt>
+File: gigascience-logo.pdf Graphic file (type pdf)
+<use gigascience-logo.pdf>
+Package pdftex.def Info: gigascience-logo.pdf  used on input line 68.
+(pdftex.def)             Requested size: 54.3435pt x 42.0pt.
+
+Overfull \hbox (54.64pt too wide) in paragraph at lines 68--68
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 14.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 8.99997pt on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 14.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 11.66617pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 9.79996pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 11.66617pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 9.79996pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 14.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 11.66617pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 9.79996pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 18.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 13.0pt on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 13.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 10.83287pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 9.09996pt on input line 68.
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 68.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
+(Font)              size <12> substituted on input line 68.
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 10.83287pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 9.09996pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 13.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 10.83287pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 9.09996pt on input line 68.
+LaTeX Font Info:    Trying to load font information for TS1+Merriwthr-OsF on in
+put line 68.
+(c:/texlive/2022/texmf-dist/tex/latex/merriweather/TS1Merriwthr-OsF.fd
+File: TS1Merriwthr-OsF.fd 2020/08/30 (autoinst) Font definitions for TS1/Merriw
+thr-OsF.
+)
+LaTeX Font Info:    Font shape `TS1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 10.83287pt on input line 68.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Merriwthr-OsF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 9.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 7.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 5.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 5.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 6.5pt on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <6.5> on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 6.5pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 5.41643pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 4.54997pt on input line 68.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 68.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.41643> not available
+(Font)              size <5> substituted on input line 68.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 68.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 68.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.41643> not available
+(Font)              size <5> substituted on input line 68.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.54997> not available
+(Font)              size <5> substituted on input line 68.
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 5.41643pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 4.54997pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 6.5pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 5.41643pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 4.54997pt on input line 68.
+LaTeX Font Info:    Font shape `TS1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 5.41643pt on input line 68.
+
+Overfull \hbox (54.64pt too wide) in paragraph at lines 68--68
+[][][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 68.
+
+Overfull \hbox (54.64pt too wide) in paragraph at lines 68--68
+[][][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 8.5pt on input line 78.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 7.5pt on input line 80.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 6.25008pt on input line 80.
+LaTeX Font Info:    Calculating math sizes for size <6.25008> on input line 82.
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 6.25008pt on input line 82.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 5.20816pt on input line 82.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/up' will be
+(Font)              scaled to size 4.37503pt on input line 82.
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.37503> not available
+(Font)              size <5> substituted on input line 82.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.37503> not available
+(Font)              size <5> substituted on input line 82.
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 5.20816pt on input line 82.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 4.37503pt on input line 82.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 6.25008pt on input line 82.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 5.20816pt on input line 82.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 4.37503pt on input line 82.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 7.5pt on input line 88.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/sl' in size <7.5> not availa
+ble
+(Font)              Font shape `T1/Merriwthr-OsF/b/it' tried instead on input l
+ine 88.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/it' will be
+(Font)              scaled to size 7.5pt on input line 88.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 7.8pt on input line 92.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 7.8pt on input line 92.
+[1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./oup.pdf> <./gigascience-logo.pdf>]
+LaTeX Font Info:    Font shape `TS1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 7.5pt on input line 95.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 7.0pt on input line 105.
+<Pics//ChassisTopology.png, id=144, 1273.75874pt x 882.29625pt>
+File: Pics//ChassisTopology.png Graphic file (type png)
+<use Pics//ChassisTopology.png>
+Package pdftex.def Info: Pics//ChassisTopology.png  used on input line 117.
+(pdftex.def)             Requested size: 117.55696pt x 81.42264pt.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 118.
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/b/n' will be
+(Font)              scaled to size 6.0pt on input line 118.
+<Pics//SuperCapacitor.png, id=151, 611.28375pt x 315.579pt>
+File: Pics//SuperCapacitor.png Graphic file (type png)
+<use Pics//SuperCapacitor.png>
+Package pdftex.def Info: Pics//SuperCapacitor.png  used on input line 135.
+(pdftex.def)             Requested size: 188.09186pt x 97.10135pt.
+<Pics//BuckBoost.png, id=152, 685.3605pt x 471.56175pt>
+File: Pics//BuckBoost.png Graphic file (type png)
+<use Pics//BuckBoost.png>
+Package pdftex.def Info: Pics//BuckBoost.png  used on input line 146.
+(pdftex.def)             Requested size: 188.09186pt x 129.41724pt.
+
+Overfull \hbox (21.9194pt too wide) in paragraph at lines 165--165
+ [][]\T1/Merriwthr-OsF/m/up/6.25008 (-20) Official web-site of $\T1/Merriwthr-O
+sF/m/it/6.25008 (-20) STMicroelectronics[]$\T1/Merriwthr-OsF/m/up/6.25008 (-20)
+ : [][]https://www.st.com/content/st_com/en.html[][]| 
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 165--166
+[]\T1/Merriwthr-OsF/m/up/7.5 (+20) However, sim-ple MOS-FET se-lec-tion is in-s
+uf-fi-cient for a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\T1/Merriwthr-OsF/m/up/7.5 (+20) for H-bridge driv-ing, and ap-plied STM32F334C
+8T6 from
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 165--166
+\T1/Merriwthr-OsF/m/it/7.5 (+20) STMicroelectronics[]$[][][][][] \T1/Merriwthr-
+OsF/m/up/7.5 (+20) to drive the MOS-FET driver, be-cause
+ []
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/it' will be
+(Font)              scaled to size 7.8pt on input line 166.
+[2 <./Pics//ChassisTopology.png> <./Pics//SuperCapacitor.png> <./Pics//BuckBoos
+t.png>]
+<Pics//GateDriver.png, id=180, 757.6305pt x 470.9595pt>
+File: Pics//GateDriver.png Graphic file (type png)
+<use Pics//GateDriver.png>
+Package pdftex.def Info: Pics//GateDriver.png  used on input line 169.
+(pdftex.def)             Requested size: 141.0698pt x 87.68666pt.
+<Pics//VoltageSampling.png, id=181, 959.38425pt x 395.67825pt>
+File: Pics//VoltageSampling.png Graphic file (type png)
+<use Pics//VoltageSampling.png>
+Package pdftex.def Info: Pics//VoltageSampling.png  used on input line 177.
+(pdftex.def)             Requested size: 141.0698pt x 58.17789pt.
+<Pics//CurrentSampling.png, id=182, 862.422pt x 468.5505pt>
+File: Pics//CurrentSampling.png Graphic file (type png)
+<use Pics//CurrentSampling.png>
+Package pdftex.def Info: Pics//CurrentSampling.png  used on input line 183.
+(pdftex.def)             Requested size: 164.57903pt x 89.41159pt.
+<Pics//PWMandVoltage.png, id=184, 522.753pt x 139.722pt>
+File: Pics//PWMandVoltage.png Graphic file (type png)
+<use Pics//PWMandVoltage.png>
+Package pdftex.def Info: Pics//PWMandVoltage.png  used on input line 210.
+(pdftex.def)             Requested size: 188.09186pt x 50.27216pt.
+<Pics//Multimeter.png, id=185, 348.70274pt x 71.0655pt>
+File: Pics//Multimeter.png Graphic file (type png)
+<use Pics//Multimeter.png>
+Package pdftex.def Info: Pics//Multimeter.png  used on input line 216.
+(pdftex.def)             Requested size: 188.09186pt x 38.33357pt.
+<Pics//PIDandCal.png, id=186, 322.20375pt x 38.544pt>
+File: Pics//PIDandCal.png Graphic file (type png)
+<use Pics//PIDandCal.png>
+Package pdftex.def Info: Pics//PIDandCal.png  used on input line 223.
+(pdftex.def)             Requested size: 188.09186pt x 22.50139pt.
+<Pics//Security.png, id=187, 377.0085pt x 111.41624pt>
+File: Pics//Security.png Graphic file (type png)
+<use Pics//Security.png>
+Package pdftex.def Info: Pics//Security.png  used on input line 236.
+(pdftex.def)             Requested size: 150.47406pt x 44.4688pt.
+<Pics//Security2.png, id=188, 333.04425pt x 77.69025pt>
+File: Pics//Security2.png Graphic file (type png)
+<use Pics//Security2.png>
+Package pdftex.def Info: Pics//Security2.png  used on input line 244.
+(pdftex.def)             Requested size: 150.47406pt x 35.10252pt.
+<Pics//Look.jpg, id=189, 1043.5788pt x 975.645pt>
+File: Pics//Look.jpg Graphic file (type jpg)
+<use Pics//Look.jpg>
+Package pdftex.def Info: Pics//Look.jpg  used on input line 256.
+(pdftex.def)             Requested size: 164.57903pt x 153.85843pt.
+ [3 <./Pics//GateDriver.png> <./Pics//VoltageSampling.png> <./Pics//CurrentSamp
+ling.png> <./Pics//PWMandVoltage.png> <./Pics//Multimeter.png> <./Pics//PIDandC
+al.png> <./Pics//Security.png> <./Pics//Security2.png>]
+<Pics//Off.jpg, id=219, 755.82375pt x 683.55376pt>
+File: Pics//Off.jpg Graphic file (type jpg)
+<use Pics//Off.jpg>
+Package pdftex.def Info: Pics//Off.jpg  used on input line 273.
+(pdftex.def)             Requested size: 107.95972pt x 97.64594pt.
+
+Overfull \hbox (10.31378pt too wide) in paragraph at lines 273--273
+ [][] 
+ []
+
+<Pics//Zero.jpg, id=220, 1025.8325pt x 849.1725pt>
+File: Pics//Zero.jpg Graphic file (type jpg)
+<use Pics//Zero.jpg>
+Package pdftex.def Info: Pics//Zero.jpg  used on input line 280.
+(pdftex.def)             Requested size: 117.96043pt x 97.64594pt.
+
+Overfull \hbox (20.3145pt too wide) in paragraph at lines 280--280
+ [][] 
+ []
+
+<Pics//40WIn.jpg, id=221, 936.49875pt x 573.14125pt>
+File: Pics//40WIn.jpg Graphic file (type jpg)
+<use Pics//40WIn.jpg>
+Package pdftex.def Info: Pics//40WIn.jpg  used on input line 287.
+(pdftex.def)             Requested size: 159.54562pt x 97.64594pt.
+
+Overfull \hbox (61.89969pt too wide) in paragraph at lines 287--287
+ [][] 
+ []
+
+<Pics//ZeroLoad.jpg, id=222, 787.2612pt x 798.8244pt>
+File: Pics//ZeroLoad.jpg Graphic file (type jpg)
+<use Pics//ZeroLoad.jpg>
+Package pdftex.def Info: Pics//ZeroLoad.jpg  used on input line 297.
+(pdftex.def)             Requested size: 115.47734pt x 117.17409pt.
+<Pics//20WLoad.jpg, id=223, 799.98875pt x 649.42625pt>
+File: Pics//20WLoad.jpg Graphic file (type jpg)
+<use Pics//20WLoad.jpg>
+Package pdftex.def Info: Pics//20WLoad.jpg  used on input line 304.
+(pdftex.def)             Requested size: 144.33354pt x 117.17409pt.
+
+Overfull \hbox (27.15945pt too wide) in paragraph at lines 304--304
+ [][] 
+ []
+
+<Pics//40WRipple.png, id=227, 875.52094pt x 643.6547pt>
+File: Pics//40WRipple.png Graphic file (type png)
+<use Pics//40WRipple.png>
+Package pdftex.def Info: Pics//40WRipple.png  used on input line 331.
+(pdftex.def)             Requested size: 84.64076pt x 62.21835pt.
+
+Underfull \hbox (badness 1527) in paragraph at lines 331--331
+[]\T1/Merriwthr-OsF/m/up/6.25008 (+20) (a) Rip-ple Wave-form un-der
+ []
+
+<Pics//10WRipple.png, id=228, 1037.37563pt x 764.8575pt>
+File: Pics//10WRipple.png Graphic file (type png)
+<use Pics//10WRipple.png>
+Package pdftex.def Info: Pics//10WRipple.png  used on input line 339.
+(pdftex.def)             Requested size: 84.64076pt x 62.40361pt.
+
+Underfull \hbox (badness 1383) in paragraph at lines 339--339
+[]\T1/Merriwthr-OsF/m/up/6.25008 (+20) (b) Rip-ple Wave-form un-der
+ []
+
+LaTeX Font Info:    Font shape `T1/Merriwthr-OsF/m/n' will be
+(Font)              scaled to size 8.5pt on input line 345.
+[4 <./Pics//Look.jpg> <./Pics//40WRipple.png> <./Pics//10WRipple.png> <./Pics//
+Off.jpg> <./Pics//Zero.jpg> <./Pics//40WIn.jpg> <./Pics//ZeroLoad.jpg> <./Pics/
+/20WLoad.jpg>]
+<Pics//CAN.png, id=246, 962.84718pt x 365.11406pt>
+File: Pics//CAN.png Graphic file (type png)
+<use Pics//CAN.png>
+Package pdftex.def Info: Pics//CAN.png  used on input line 353.
+(pdftex.def)             Requested size: 164.57903pt x 62.4084pt.
+<Pics//UART.png, id=248, 995.98991pt x 598.80858pt>
+File: Pics//UART.png Graphic file (type png)
+<use Pics//UART.png>
+Package pdftex.def Info: Pics//UART.png  used on input line 364.
+(pdftex.def)             Requested size: 164.57903pt x 98.94534pt.
+<Pics//GS1.jpg, id=249, 714.0276pt x 524.6802pt>
+File: Pics//GS1.jpg Graphic file (type jpg)
+<use Pics//GS1.jpg>
+Package pdftex.def Info: Pics//GS1.jpg  used on input line 387.
+(pdftex.def)             Requested size: 71.98438pt x 52.90027pt.
+<Pics//GS2.jpg, id=250, 938.50626pt x 655.44875pt>
+File: Pics//GS2.jpg Graphic file (type jpg)
+<use Pics//GS2.jpg>
+Package pdftex.def Info: Pics//GS2.jpg  used on input line 393.
+(pdftex.def)             Requested size: 75.74077pt x 52.90027pt.
+<Pics//GS3.jpg, id=251, 1104.2856pt x 777.6252pt>
+File: Pics//GS3.jpg Graphic file (type jpg)
+<use Pics//GS3.jpg>
+Package pdftex.def Info: Pics//GS3.jpg  used on input line 401.
+(pdftex.def)             Requested size: 75.11739pt x 52.90027pt.
+<Pics//GS4.jpg, id=252, 1042.89626pt x 697.60625pt>
+File: Pics//GS4.jpg Graphic file (type jpg)
+<use Pics//GS4.jpg>
+Package pdftex.def Info: Pics//GS4.jpg  used on input line 408.
+(pdftex.def)             Requested size: 79.07315pt x 52.90027pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+AED: lastpage setting LastPage
+[5 <./Pics//CAN.png> <./Pics//UART.png> <./Pics//GS1.jpg> <./Pics//GS2.jpg> <./
+Pics//GS3.jpg> <./Pics//GS4.jpg>] (./23.SuperCapacitor.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.9375pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `23.SuperCapacitor.out' has not changed.
+(rerunfilecheck)             Checksum: EB9C7E13B3343D56C339FED0BD4E88E5;4180.
+ ) 
+Here is how much of TeX's memory you used:
+ 24842 strings out of 474968
+ 482310 string characters out of 5780080
+ 847513 words of memory out of 5000000
+ 45237 multiletter control sequences out of 15000+600000
+ 2234022 words of font info for 644 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 123i,13n,131p,1014b,1025s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_posqbl.enc}{
+c:/texlive/2022/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_owzwzj.enc}<c
+:/texlive/2022/texmf-dist/fonts/type1/sorkin/merriweather/Merriwthr-Bold.pfb><c
+:/texlive/2022/texmf-dist/fonts/type1/sorkin/merriweather/Merriwthr-BoldItalic.
+pfb><c:/texlive/2022/texmf-dist/fonts/type1/sorkin/merriweather/Merriwthr-Itali
+c.pfb><c:/texlive/2022/texmf-dist/fonts/type1/sorkin/merriweather/Merriwthr-Reg
+ular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><
+c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb><c:/texl
+ive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb><c:/texlive/2
+022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on 23.SuperCapacitor.pdf (5 pages, 4285907 bytes).
+PDF statistics:
+ 329 PDF objects out of 1000 (max. 8388607)
+ 258 compressed objects within 3 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 260464 words of extra memory for PDF output out of 266212 (max. 10000000)
+
